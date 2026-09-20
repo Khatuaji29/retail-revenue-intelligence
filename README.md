@@ -1,6 +1,16 @@
-# RETAILIQ --- Revenue & Customer Intelligence
+# RETAILIQ — Revenue & Customer Intelligence
 
 > **From raw retail transactions to business decisions.**
+
+### 🔗 Explore the Project
+
+🚀 **Live Dashboard:**  
+https://retail-revenue-intelligence.streamlit.app/
+
+💻 **GitHub Repository:**  
+https://github.com/Khatuaji29/retail-revenue-intelligence
+
+---
 
 RetailIQ is a business-focused **e-commerce analytics dashboard** built
 around the UCI Online Retail II dataset.
@@ -8,13 +18,13 @@ around the UCI Online Retail II dataset.
 The project transforms more than **1 million raw transaction records**
 into a decision-support product for understanding:
 
--   revenue performance
--   customer value and concentration
--   new vs returning customer behaviour
--   product performance
--   returns and revenue leakage
--   transaction anomalies
--   business actions worth investigating
+- revenue performance
+- customer value and concentration
+- new vs returning customer behaviour
+- product performance
+- returns and revenue leakage
+- transaction anomalies
+- business actions worth investigating
 
 The goal was not to create another basic EDA notebook.
 
