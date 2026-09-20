@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# PyCharm
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Raw source data
+data/raw/
+
+# Large generated datasets
+data/processed/retail_analytical.csv
+data/processed/retail_cleaned.csv
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
